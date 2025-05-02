@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1642834316",
+    "Type": "Event",
+    "GUID": "{FEC287EB-4D07-4D70-8BE3-2435890DEBC2}",
+    "Language": "SFX",
+    "Hash": "{A91AEBC6-6321-6B55-E44B-C2C67F885C66}",
+    "ObjectPath": "Play_AMB_2D_EXT_GEN",
+    "ShortName": "Play_AMB_2D_EXT_GEN",
+    "Path": "Event/16/Play_AMB_2D_EXT_GEN.bnk",
+    "Media": [
+     {
+      "Id": "566406152",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_2D_EXT_GEN.wav",
+      "Path": "Media/56/566406152.wem",
+      "CachePath": "D8/{D84EC58C-FEC2-71DC-AE7C-633669A0EF0F}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1642834316",
+      "Name": "Play_AMB_2D_EXT_GEN",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_AMB_2D_EXT_GEN",
+      "GUID": "{FEC287EB-4D07-4D70-8BE3-2435890DEBC2}",
+      "MaxAttenuation": "5000",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "566406152"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{1AF97972-204D-E8FA-09D2-D658BD12D11D}"
+ }
+}
