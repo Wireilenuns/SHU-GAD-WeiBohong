@@ -114,7 +114,7 @@
 													<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
 												</HighPassFilterUsage>
 												<SpreadUsage>
-													<CurveUsageInfo Platform="Linked" CurveToUse="None">
+													<CurveUsageInfo Platform="Linked" CurveToUse="Custom">
 														<Curve Name="Spread" ID="{DCD0763C-22F4-408E-BEA4-A0CEC7F55D29}">
 															<PropertyList>
 																<Property Name="Flags" Type="int32" Value="1"/>
@@ -140,7 +140,25 @@
 													</CurveUsageInfo>
 												</SpreadUsage>
 												<FocusUsage>
-													<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
+													<CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+														<Curve Name="Focus" ID="{FE979467-BB71-448F-9D43-35E2C66D422A}">
+															<PropertyList>
+																<Property Name="Flags" Type="int32" Value="1"/>
+															</PropertyList>
+															<PointList>
+																<Point>
+																	<XPos>0</XPos>
+																	<YPos>100</YPos>
+																	<Flags>5</Flags>
+																</Point>
+																<Point>
+																	<XPos>1000</XPos>
+																	<YPos>0</YPos>
+																	<Flags>37</Flags>
+																</Point>
+															</PointList>
+														</Curve>
+													</CurveUsageInfo>
 												</FocusUsage>
 												<ObstructionVolumeUsage>
 													<CurveUsageInfo Platform="Linked" CurveToUse="UseProject"/>
