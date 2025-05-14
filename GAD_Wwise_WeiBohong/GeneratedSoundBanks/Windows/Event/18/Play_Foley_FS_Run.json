@@ -8,9 +8,9 @@
    {
     "Id": "1814768445",
     "Type": "Event",
-    "GUID": "{EB930C2F-41CD-4482-8782-563313C3B7E6}",
+    "GUID": "{299B311E-D50E-422A-9EA3-27CC315A544E}",
     "Language": "SFX",
-    "Hash": "{148996C0-6F22-DB2C-EE9F-E754ED57EF5A}",
+    "Hash": "{27654731-6343-8B5B-3043-E1979A27A7BE}",
     "ObjectPath": "Play_Foley_FS_Run",
     "ShortName": "Play_Foley_FS_Run",
     "Path": "Event/18/Play_Foley_FS_Run.bnk",
@@ -183,7 +183,7 @@
       "Id": "1814768445",
       "Name": "Play_Foley_FS_Run",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_Foley_FS_Run",
-      "GUID": "{EB930C2F-41CD-4482-8782-563313C3B7E6}",
+      "GUID": "{299B311E-D50E-422A-9EA3-27CC315A544E}",
       "DurationType": "OneShot",
       "DurationMin": "0",
       "DurationMax": "0.35",
@@ -333,6 +333,6 @@
     ]
    }
   ],
-  "FileHash": "{9797457B-602E-6D94-0BCE-137E0FBA48F4}"
+  "FileHash": "{2C2DBDD2-7FD0-61A1-3746-54871D0D4334}"
  }
 }

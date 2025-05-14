@@ -14,23 +14,23 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Play_Foley_FS_Run" ID="{EB930C2F-41CD-4482-8782-563313C3B7E6}">
-					<ChildrenList>
-						<Action Name="" ID="{629E0485-98A2-4D71-A773-8AE935BAA346}" ShortID="840014682">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Foley_FS_Run" ID="{3945CC6D-1F1E-4730-A370-F7FF6015791F}" WorkUnitID="{82550821-BD00-4DA2-945E-B5D346883A93}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
-					</ChildrenList>
-				</Event>
 				<Event Name="Play_AMB_2D_EXT_GEN" ID="{FEC287EB-4D07-4D70-8BE3-2435890DEBC2}">
 					<ChildrenList>
 						<Action Name="" ID="{812FCA1B-E581-41F8-B178-BF71A70F7EBD}" ShortID="706891163">
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="AMB_2D_EXT_GEN" ID="{270F6EA0-1469-4674-8375-9C0FEF9EE555}" WorkUnitID="{827B6E0A-BFF0-4921-82DD-745ED632CA47}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Foley_FS_Run" ID="{299B311E-D50E-422A-9EA3-27CC315A544E}">
+					<ChildrenList>
+						<Action Name="" ID="{4ED9E95D-0835-4BF8-80E8-D48D3605ABEA}" ShortID="355360587">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Foley_FS_Run" ID="{3945CC6D-1F1E-4730-A370-F7FF6015791F}" WorkUnitID="{82550821-BD00-4DA2-945E-B5D346883A93}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
